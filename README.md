@@ -1,1 +1,2 @@
 # EmployeeManagerApplication
+SpringBoot + Angular
